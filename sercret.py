@@ -1,1 +1,0 @@
-secret=your_secret_key
